@@ -5,12 +5,16 @@ A boilerplate repository for connecting to Google Gemini via API.
 ## Flow Diagram
 <img width="1068" height="762" alt="image" src="https://github.com/user-attachments/assets/6c07931b-2bb5-4d79-a46c-8ada5c656fc8" />
 
-
 ## Features
 
 - Simple integration with Google Gemini API
 - Easy setup and configuration
 - Ready-to-use Python environment
+
+## Limitation
+- The model doesn't keep the memory or maintains any session so each prompt is a whole new conversation
+<img width="757" height="254" alt="2025-08-20_16-22" src="https://github.com/user-attachments/assets/e33aeb9f-8aa4-4d80-a051-28fd89ab2ea1" />
+
 
 ## Setup
 
